@@ -7,7 +7,11 @@
 - Load balancers can perform various load balancing algorithms, such as round-robin, least connections, IP hash, or weighted distribution.
 - They help achieve high availability by detecting server failures and redirecting traffic to healthy servers.
 
-![Source Google](./1%20tEaZGz-p1-E2ytNjl5RPJg.jpg)
+
+
+<div style = "text-align:center">
+<img src = "./1%20tEaZGz-p1-E2ytNjl5RPJg.jpg" alt = "Image">
+</div>
 
 ## Vertical Scaling:
 
@@ -24,7 +28,10 @@
 - Horizontal scaling requires load balancing to evenly distribute incoming requests across the multiple servers.
 - It is suitable when the workload exceeds the capacity of a single server or when high availability and scalability are required.
 
-![google](./23_Horizontal_vs_vertical_scaling_2_bf6d292ef7.png)
 
+
+<div style = "text-align:center">
+<img src = "./23_Horizontal_vs_vertical_scaling_2_bf6d292ef7.png" alt = "Image">
+</div>
 To address the performance and scaling issues in the project, a combination of load balancing and vertical/horizontal scaling approaches may be appropriate. Load balancers help distribute the workload efficiently among multiple servers, improving performance and availability. Vertical scaling allows increasing the capacity of individual servers, while horizontal scaling enables adding more servers to handle increased workload and provide fault tolerance.
 
