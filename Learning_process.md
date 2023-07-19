@@ -1,4 +1,4 @@
-#1.  How to Learn Faster with the Feynman Technique.
+# 1.  How to Learn Faster with the Feynman Technique.
 - The Feynman Technique is a learning and problem-solving strategy named after the physicist Richard Feynman. It emphasizes understanding complex concepts and solving problems by breaking them down into simpler, more manageable parts. The technique involves four principal steps:
 
 ## Choose a Concept:
